@@ -15,8 +15,10 @@ A bash script to maintain an update SCID database of chess games downloaded from
   below)
 
   *SYNOPSIS*
+
      ./twic_script.sh --help
-     ./twic_script.sh [<start_issue> [<end_issue> [<pgnfile>]]]
+
+     ./twic_script.sh [\<start_issue\> [\<end_issue\> [\<pgnfile\>]]]
   
   When called with "--help" as first argument, the script outputs
   a *minimal* help.
