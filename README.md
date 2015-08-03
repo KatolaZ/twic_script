@@ -1,7 +1,9 @@
 # twic_script
-A bash script to maintain an update SCID database of chess games downloaded from The Week In Chess (TWIC) 
+A bash script to maintain an updated SCID database of chess games downloaded from The Week In Chess (TWIC) 
 
 ==============================
+
+
 
   This simple bash script helps maintaining an updated database of
   chess games for SCID, based on the famous "The Week In Chess" game
@@ -54,3 +56,16 @@ A bash script to maintain an update SCID database of chess games downloaded from
   BEWARE!!! IF YOU REMOVE ${PNGFILE}, THE CORRESPONDING SCID DB FILE WILL 
   BE OVERWRITTEN BY THE FIRST RUN OF THIS SCRIPT!!!
 
+
+  **** DISCLAIMER ****
+
+  THIS SCRIPT USES AND AGGREGATES ONLY PUBLICLY AVAILABLE PGN
+  FILES. THIS PROJECT IS NOT RELATED IN ANY WAY TO THE WEBSITE "TWIC -
+  THE WEEK IN CHESS", WHICH IS CREATED AND MAINTAINED BY Mark
+  Crowther. THE BEST WAY TO SUPPORT THIS PROJECT (WHICH DOES NOT NEED
+  THAT MUCH EFFORT INDEED) IS BY SUPPORTING "THE WEEK IN CHESS"
+  (http://www.theweekinchess.com) AND ITS CREATOR Mark Crowther, WHO
+  HAS DONE A GREAT JOB PUTTING TOGETHER A SUPERB CHESS WEBZINE.
+  
+
+  
